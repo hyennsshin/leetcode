@@ -7,6 +7,7 @@
 # @lc code=start
 class Solution:
     def romanToInt(self, s: str) -> int:
+        return
         
 # @lc code=end
 
